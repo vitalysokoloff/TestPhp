@@ -1,0 +1,20 @@
+input{
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+.rim{
+    background-color: rgb(135, 178, 212);
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+.block{
+    background-color: rgb(233, 233, 233);
+    padding: 10px;
+    margin: 5px;
+}
+.title{
+    background-color: rgb(92, 92, 92);
+    color: rgb(255, 255, 255);
+    padding: 2px;
+}
